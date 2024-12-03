@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=MCX_3U
+CurrentVariant=STD_BNC
 
 [Preferences]
 PrefsVaultGUID=
@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=eSAS_BNC_fanout.PCBDOC
+DocumentPath=..\..\OneDrive\PT1000\HD68_BNC_Breakout\v2 wezsza eSAS_BNC_fanout.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ UniqueId=9B881D82-BCD7-4910-89F0-D449803A5B3E
 Description=MCX_3U
 AllowFabrication=0
 ParameterCount=0
-VariationCount=29
+VariationCount=8
 Variation1=Designator=J2|UniqueId=\NGJFVFVE|Kind=1|AlternatePart=
 Variation2=Designator=J4|UniqueId=\DLJNXJZT|Kind=1|AlternatePart=
 Variation3=Designator=J8|UniqueId=\JWQFOMGP|Kind=1|AlternatePart=
@@ -149,27 +149,6 @@ Variation5=Designator=J16|UniqueId=\AIDEMIEA|Kind=1|AlternatePart=
 Variation6=Designator=J6|UniqueId=\YBGYHPIP|Kind=1|AlternatePart=
 Variation7=Designator=J14|UniqueId=\NUQLHNNT|Kind=1|AlternatePart=
 Variation8=Designator=J10|UniqueId=\PJOWAGOS|Kind=1|AlternatePart=
-Variation9=Designator=ENC1|UniqueId=\RTVYKERX|Kind=1|AlternatePart=
-Variation10=Designator=ENC2|UniqueId=\JMVCYXFU|Kind=1|AlternatePart=
-Variation11=Designator=NUT1|UniqueId=\JIDNNYOE|Kind=1|AlternatePart=
-Variation12=Designator=NUT2|UniqueId=\NUPPACLY|Kind=1|AlternatePart=
-Variation13=Designator=NUT3|UniqueId=\JJPVMJHU|Kind=1|AlternatePart=
-Variation14=Designator=NUT4|UniqueId=\JPXZQOGH|Kind=1|AlternatePart=
-Variation15=Designator=NUT5|UniqueId=\VVNGFNYC|Kind=1|AlternatePart=
-Variation16=Designator=NUT6|UniqueId=\DMFDLJUK|Kind=1|AlternatePart=
-Variation17=Designator=NUT7|UniqueId=\UAEATSUL|Kind=1|AlternatePart=
-Variation18=Designator=NUT8|UniqueId=\RXOSIKSZ|Kind=1|AlternatePart=
-Variation19=Designator=NUT9|UniqueId=\TRZXBDTE|Kind=1|AlternatePart=
-Variation20=Designator=SCREW3|UniqueId=\HORZVEGK|Kind=1|AlternatePart=
-Variation21=Designator=SCREW4|UniqueId=\JRTOITSD|Kind=1|AlternatePart=
-Variation22=Designator=SCREW5|UniqueId=\PESHDGQJ|Kind=1|AlternatePart=
-Variation23=Designator=SCREW6|UniqueId=\YDQRBLFO|Kind=1|AlternatePart=
-Variation24=Designator=SCREW7|UniqueId=\JFSOIJPP|Kind=1|AlternatePart=
-Variation25=Designator=SCREW8|UniqueId=\QJXHKQST|Kind=1|AlternatePart=
-Variation26=Designator=SCREW9|UniqueId=\WUUEMARY|Kind=1|AlternatePart=
-Variation27=Designator=SCREW10|UniqueId=\WNKMBHND|Kind=1|AlternatePart=
-Variation28=Designator=SCREW11|UniqueId=\SIXJMJPG|Kind=1|AlternatePart=
-Variation29=Designator=ST2|UniqueId=\HIUPCIUL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -177,18 +156,13 @@ UniqueId=DA7D3317-81AC-4EB2-BBF8-2B78BDDDA98D
 Description=STD_BNC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
-Variation1=Designator=ST2|UniqueId=\HIUPCIUL|Kind=1|AlternatePart=
-Variation2=Designator=MECH1|UniqueId=\UHPBSEWF|Kind=1|AlternatePart=
-Variation3=Designator=SCREW1|UniqueId=\MNADOHKI|Kind=1|AlternatePart=
-Variation4=Designator=SCREW2|UniqueId=\GWFCNEAE|Kind=1|AlternatePart=
-Variation5=Designator=NUT10|UniqueId=\UKYRRKCO|Kind=1|AlternatePart=
-Variation6=Designator=NUT11|UniqueId=\ONGZRALM|Kind=1|AlternatePart=
-Variation7=Designator=SCREW12|UniqueId=\EATWMRIV|Kind=1|AlternatePart=
-Variation8=Designator=SCREW13|UniqueId=\DJZLZGIZ|Kind=1|AlternatePart=
-Variation9=Designator=NUT12|UniqueId=\UQSJXGSJ|Kind=1|AlternatePart=
-Variation10=Designator=NUT13|UniqueId=\KHMAWZWG|Kind=1|AlternatePart=
+VariationCount=1
+Variation1=Designator=MECH1|UniqueId=\UHPBSEWF|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for eSAS_BNC_fanout\Design Rule Check - v2 wezsza eSAS_BNC_fanout.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
