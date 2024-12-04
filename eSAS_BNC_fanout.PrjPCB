@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\..\OneDrive\PT1000\HD68_BNC_Breakout\v2 wezsza eSAS_BNC_fanout.PCBDOC
+DocumentPath=eSAS_BNC_fanout.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -161,6 +161,10 @@ Variation1=Designator=MECH1|UniqueId=\UHPBSEWF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for eSAS_BNC_fanout\Design Rule Check - eSAS_BNC_fanout.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for eSAS_BNC_fanout\Design Rule Check - v2 wezsza eSAS_BNC_fanout.html
 DItemRevisionGUID=
 
@@ -1133,6 +1137,14 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=AFE0_CSN0|NetColor=$00FF6E6E
+Net2=NetName=AFE0_ID0|NetColor=$00FF6E6E
+Net3=NetName=AFE0_ID1|NetColor=$00FF6E6E
+Net4=NetName=AFE0_MISO1|NetColor=$00FF6E6E
+Net5=NetName=AFE0_MOSI01|NetColor=$00FF6E6E
+Net6=NetName=AFE0_SCLK01|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
